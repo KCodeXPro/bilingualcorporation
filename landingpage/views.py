@@ -14,7 +14,7 @@ from django.templatetags.static import static
 
 
 def landingpage(request): 
-     return render(request, 'landingpage/landingpage.html')
+     return render(request, 'landingpage/index.html')
         
 def terminosdeservicio(request):
   return render(request, 'landingpage/terminosdeservicio.html') 
