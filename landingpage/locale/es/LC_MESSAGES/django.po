@@ -1,0 +1,1086 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-13 02:26-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+#: .\landingpage\templates\landingpage\landingpage.html:10
+#: .\landingpage\templates\landingpage\landingpage.html:478
+msgid "Bilingual Corporation"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:76
+msgid "Horario"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:93
+msgid "Inicio"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:94
+msgid "Acerca"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:95
+msgid "Servicios"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:97
+#: .\landingpage\templates\landingpage\landingpage.html:832
+msgid "Traducción Certificada y Notariada"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:98
+msgid "Interpretación USCIS y en la Corte Civi"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:99
+#: .\landingpage\templates\landingpage\landingpage.html:249
+#: .\landingpage\templates\landingpage\landingpage.html:834
+msgid "Interpretación por Teléfono y en Persona"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:100
+#: .\landingpage\templates\landingpage\landingpage.html:835
+msgid "Traducción de Documentos Técnicos y Comerciales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:101
+#: .\landingpage\templates\landingpage\landingpage.html:266
+#: .\landingpage\templates\landingpage\landingpage.html:836
+msgid "Traducción de Documentos Personales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:102
+#: .\landingpage\templates\landingpage\landingpage.html:274
+#: .\landingpage\templates\landingpage\landingpage.html:837
+msgid "Localización de Sitios Web y Contenidos Digitales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:103
+#: .\landingpage\templates\landingpage\landingpage.html:282
+#: .\landingpage\templates\landingpage\landingpage.html:838
+msgid "Traducción y Edición de Textos Creativos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:104
+#: .\landingpage\templates\landingpage\landingpage.html:839
+msgid "Servicios de Revisión y Corrección de Estilo"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:105
+#: .\landingpage\templates\landingpage\landingpage.html:672
+msgid "Servicios Gratuitos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:108
+msgid "Proceso"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:109
+#: .\landingpage\templates\landingpage\landingpage.html:577
+msgid "Equipo"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:115
+msgid "Seleccionar idioma"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:149
+msgid "Traducciones Profesionales Certificadas y Notariadas"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:150
+msgid ""
+"Envíanos tus documentos Ya! Servicio de Alta Calidad, Rápido y Precios Bajos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:153
+msgid "Enviar Documentos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:154
+msgid "Ver Video"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:182
+msgid "Acerca de nosotros"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:187
+msgid ""
+"Somos un equipo apasionado de profesionales dedicados \n"
+"              a ofrecer servicios de traducción e interpretación de la más "
+"alta calidad. Fundada en 2001, nuestra \n"
+"              empresa se ha establecido como líder en la industria gracias a "
+"nuestro compromiso con la precisión, \n"
+"              la confidencialidad y el servicio al cliente. Contamos con más "
+"de 30 traductores, editores y correctores \n"
+"              especializados en diversas áreas:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:194
+msgid "Legal."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:195
+msgid "Técnica."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:196
+msgid "Médica."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:202
+#, python-format
+msgid ""
+"Nuestro equipo está formado por profesionales bilingües y biculturales que "
+"comprenden la terminología \n"
+"              y los matices específicos de cada idioma.Desde nuestro inicio, "
+"nos hemos comprometido a ofrecer trabajos de alta calidad \n"
+"              a precios competitivos. Nos enorgullecemos de nuestra "
+"capacidad para entregar resultados rápidos sin comprometer la precisión.\n"
+"              Además, garantizamos la satisfacción total de nuestros "
+"clientes con nuestra política de reembolso del 100%%."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:207
+msgid "Conócenos Más"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:221
+msgid "Servicios ofrecidos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:222
+msgid ""
+"Nos especializamos en proporcionar una amplia gama de servicios de "
+"traducción e interpretación diseñados \n"
+"            para satisfacer tus necesidades. Nuestro equipo de profesionales "
+"altamente cualificados está \n"
+"            aquí para garantizar que tu comunicación sea clara, precisa y "
+"efectiva en cualquier contexto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:231
+msgid " Traducción Certificada y Notariada"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:232
+msgid ""
+"Ofrecemos traducciones certificadas y notariadas para documentos oficiales "
+"que requieren validez legal. Ideal para trámites de inmigración, "
+"procedimientos judiciales y otros usos formales."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:233
+#: .\landingpage\templates\landingpage\landingpage.html:242
+#: .\landingpage\templates\landingpage\landingpage.html:251
+#: .\landingpage\templates\landingpage\landingpage.html:260
+#: .\landingpage\templates\landingpage\landingpage.html:268
+#: .\landingpage\templates\landingpage\landingpage.html:276
+#: .\landingpage\templates\landingpage\landingpage.html:284
+#: .\landingpage\templates\landingpage\landingpage.html:292
+msgid "Precio:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:233
+#: .\landingpage\templates\landingpage\landingpage.html:251
+#: .\landingpage\templates\landingpage\landingpage.html:268
+msgid " A partir de "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:233
+msgid " por documento, con descuentos disponibles para grandes volúmenes."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:240
+#: .\landingpage\templates\landingpage\landingpage.html:833
+msgid "Interpretación USCIS y en la Corte Civil"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:241
+msgid ""
+"Proporcionamos servicios de interpretación para procedimientos de USCIS y "
+"audiencias en la corte, con opciones disponibles tanto por teléfono como en "
+"sitio. Nuestros intérpretes están capacitados para manejar situaciones "
+"legales complejas con profesionalismo."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:242
+#: .\landingpage\templates\landingpage\landingpage.html:260
+msgid " Desde "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:250
+msgid ""
+"Ofrecemos servicios de interpretación por teléfono y en persona para una "
+"variedad de situaciones, incluyendo conferencias, ferias, mediaciones y más. "
+"Nuestro equipo está disponible para atender tus necesidades de "
+"interpretación en cualquier momento."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:251
+msgid " por hora para interpretación telefónica."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:258
+msgid " Traducción de Documentos Técnicos y Comerciales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:259
+msgid ""
+" Especializados en la traducción de manuales técnicos, informes, contratos, "
+"folletos y otros documentos comerciales. Aseguramos la precisión en la "
+"terminología técnica y comercial."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:260
+msgid "por palabra, con descuentos disponibles para grandes volúmenes."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:267
+msgid ""
+"Traducimos documentos personales como certificados de nacimiento, diplomas "
+"académicos, informes médicos y más. Ofrecemos traducciones precisas y "
+"certificadas para trámites personales y oficiales."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:268
+msgid "por documento."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:275
+msgid ""
+"Ayudamos a las empresas a adaptar su contenido digital y sitios web para "
+"audiencias internacionales. Nuestra localización asegura que el contenido "
+"sea culturalmente relevante y lingüísticamente preciso."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:276
+#: .\landingpage\templates\landingpage\landingpage.html:284
+#: .\landingpage\templates\landingpage\landingpage.html:292
+msgid " Cotización personalizada según el proyecto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:283
+msgid ""
+" Ofrecemos servicios de traducción y edición para textos creativos como "
+"novelas, guiones, y artículos. Nos aseguramos de mantener el estilo y la "
+"intención original mientras adaptamos el contenido a la lengua de destino."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:290
+msgid " Servicios de Revisión y Corrección de Estilo"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:291
+msgid ""
+"Realizamos revisiones y correcciones para asegurar que tus documentos estén "
+"libres de errores y sean claros y coherentes. Nuestros servicios incluyen "
+"corrección de estilo y revisión final."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:308
+msgid "Enviar Documento o Contactarnos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:309
+msgid ""
+"Envía tus documentos de manera segura y fácil. Nuestro equipo está listo "
+"para ayudarte en todo lo que necesites."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:321
+#: .\landingpage\templates\landingpage\landingpage.html:812
+msgid "Estados Unidos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:332
+msgid "Llama: "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:344
+msgid "Enviar Documento o Contáctanos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:348
+msgid "Su Nombre"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:352
+msgid "Su Email"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:357
+msgid "Asunto"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:361
+msgid "Mensaje"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:365
+msgid "Adjuntar Documento"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:369
+msgid "Cargando"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:376
+msgid "Enviar"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:393
+msgid "Proceso de Traducción"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:394
+msgid ""
+"Nos esforzamos por hacer que el proceso de solicitar y recibir nuestros "
+"servicios sea lo más sencillo y eficiente posible. A continuación, te "
+"presentamos los pasos a seguir para obtener tus traducciones e "
+"interpretaciones de manera rápida y efectiva:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:400
+msgid "Envío de Documentos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:401
+msgid "Envía tus documentos a través de nuestros canales de comunicación:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:405
+msgid "Formulario en Línea:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:410
+msgid "Recepción de Cotización"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:411
+msgid ""
+"Revisaremos tu solicitud y te enviaremos una cotización detallada sin "
+"compromiso."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:412
+msgid "Tiempo de Respuesta:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:412
+msgid "Generalmente, recibirás tu cotización en unos minutos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:416
+msgid "Confirmación y Pago"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:417
+msgid ""
+"Una vez aceptes la cotización, confirmaremos los detalles del proyecto y te "
+"proporcionaremos opciones de pago."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:418
+msgid "Cómo Pagar:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:418
+msgid ""
+"A través de nuestro portal seguro con Zelle, Visa, Mastercard, Amex, "
+"Discover o PayPal."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:422
+msgid "Ejecución del Proyecto"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:423
+msgid ""
+"Nuestro equipo de traductores e intérpretes comenzará a trabajar en tu "
+"proyecto según lo acordado."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:424
+msgid "Comunicación:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:424
+msgid "Mantendremos contacto continuo para cualquier actualización."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:428
+msgid "Entrega de Documentos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:429
+msgid ""
+"Una vez completada la traducción, te enviaremos los documentos listos para "
+"imprimir."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:430
+msgid "Formato:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:430
+msgid "Recibirás los documentos en PDF o el formato acordado."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:434
+msgid "Revisión y Feedback"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:435
+msgid "Revisa los documentos entregados y proporciónanos tu feedback."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:436
+msgid "Correcciones:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:436
+msgid "Si necesitas ajustes, contáctanos para realizar las modificaciones."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:440
+msgid "Soporte Continuo"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:441
+msgid ""
+"Ofrecemos soporte para cualquier pregunta adicional o para futuros proyectos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:442
+msgid "Cómo Contactarnos:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:442
+msgid ""
+"Llámanos al +1 (786) 556-4858 o envía un correo a files@nickeltranslations."
+"com."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:446
+msgid "Notas Adicionales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:447
+msgid "Tiempo de Entrega:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:447
+msgid "Varía según la longitud y complejidad del proyecto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:448
+msgid "Confidencialidad:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:448
+msgid ""
+"Mantenemos estrictas normas de confidencialidad para proteger tu información."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Envío"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Cotización"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Pago"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Ejecución"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Entrega"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Revisión"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:454
+msgid "Soporte"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:478
+msgid "Todos eligen a "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:480
+msgid ""
+"Elegirnos, significa optar por un servicio confiable y eficiente. Estamos "
+"disponibles \n"
+"            las 24 horas del día, los 7 días de la semana, para atender tus "
+"necesidades de traducción e interpretación. Nos dedicamos \n"
+"            a superar tus expectativas con un servicio al cliente "
+"excepcional y soluciones a la medida."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:489
+msgid "Experiencia Multidisciplinaria"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:492
+msgid ""
+"Nuestros traductores e intérpretes poseen experiencia en diversos campos, lo "
+"que nos permite ofrecer servicios especializados en áreas clave, tales como:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:493
+msgid "Legal:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:493
+msgid ""
+" Nuestros expertos en traducción legal comprenden la terminología y los "
+"procedimientos judiciales, asegurando traducciones precisas para documentos "
+"legales, procedimientos en la corte y servicios de interpretación para casos "
+"legales."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:494
+msgid "Médico:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:494
+msgid ""
+" Contamos con profesionales capacitados en terminología médica y "
+"procedimientos clínicos, garantizando traducciones precisas para informes "
+"médicos, historias clínicas y documentación relacionada con la salud."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:495
+msgid "Técnico:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:495
+msgid ""
+" Nuestros traductores técnicos están familiarizados con la terminología y "
+"los estándares de la industria, capaces de traducir manuales técnicos, "
+"especificaciones y documentación de ingeniería con precisión."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:501
+msgid "Competencias Lingüísticas Avanzadas"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:504
+msgid ""
+"Nuestro equipo está formado por profesionales bilingües y biculturales que "
+"no solo dominan los idiomas de trabajo, sino que también entienden las "
+"sutilezas culturales. Esto les permite:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:505
+msgid "Captar Matices Culturales: "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:505
+msgid ""
+" Interpretar y traducir con precisión los matices culturales y contextuales, "
+"asegurando que el mensaje sea claro y adecuado para la audiencia objetivo."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:506
+msgid "Adaptar el Estilo de Comunicación: "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:506
+msgid ""
+" Ajustar el estilo y el tono de la traducción o interpretación para que se "
+"alinee con el propósito del documento o la situación comunicativa."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:512
+msgid " Habilidades de Comunicación Efectiva"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:515
+msgid ""
+"La comunicación efectiva es clave en nuestro trabajo, y nuestro equipo se "
+"destaca en:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:516
+msgid "Claridad y Precisión:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:516
+msgid ""
+" Garantizamos que cada traducción e interpretación sea clara y precisa, "
+"evitando malentendidos y asegurando que la información se transmita "
+"correctamente."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:517
+msgid "Confidencialidad y Ética Profesional:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:517
+msgid ""
+" Mantenemos altos estándares de confidencialidad y ética profesional en "
+"todos los proyectos, protegiendo la privacidad y la integridad de la "
+"información de nuestros clientes."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:523
+msgid "Capacidades de Gestión de Proyectos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:526
+msgid ""
+"Para asegurar la entrega oportuna y eficiente de nuestros servicios, nuestro "
+"equipo también posee habilidades en:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:527
+msgid "Gestión de Proyectos:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:527
+msgid ""
+" Coordinamos y gestionamos proyectos complejos con múltiples documentos y "
+"plazos ajustados, asegurando que cada etapa del proceso se maneje de manera "
+"eficiente y organizada."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:528
+msgid "Adaptabilidad:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:528
+msgid ""
+" Nos ajustamos a las necesidades cambiantes de nuestros clientes y a las "
+"especificaciones de cada proyecto, proporcionando soluciones flexibles y "
+"efectivas."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:534
+msgid "Compromiso con la Calidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:537
+msgid ""
+"Cada miembro de nuestro equipo está comprometido con la excelencia y la "
+"satisfacción del cliente. Realizamos revisiones rigurosas y controles de "
+"calidad para garantizar que cada traducción e interpretación cumpla con "
+"nuestros altos estándares."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:578
+msgid ""
+"Equipo de trabajo con profesionales\n"
+"        expertos nacionales y de otros países los\n"
+"        cuales se convocan de acuerdo con los\n"
+"        intereses de los clientes"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:591
+msgid "Director Ejecutivo"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:592
+msgid "Cada palabra cuenta, cada detalle importa"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:608
+msgid "Gerente de Producto"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:609
+msgid "La vida te porndrá obstáculos, los limites los pones tú."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:625
+msgid "Director de Tecnología"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:626
+msgid "La disciplina es la parte más importante del éxito"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:642
+msgid "Contador"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:643
+msgid "Inténtalo una y otra vez. Hasta que el miedo, te tenga miedo."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:673
+msgid ""
+"En BilinguaL Corporation, nos comprometemos a brindarte la mejor experiencia "
+"posible. Por eso, ofrecemos una variedad de servicios gratuitos para que "
+"puedas conocer la calidad de nuestro trabajo antes de decidirte."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:680
+msgid "Cotización Sin Compromiso"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:681
+msgid ""
+"Recibe una cotización gratuita y sin compromiso para tu proyecto de "
+"traducción o interpretación. Simplemente envía tus documentos o detalles, y "
+"te proporcionaremos un presupuesto detallado."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:686
+msgid "Consulta Inicial Gratuita"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:687
+msgid ""
+"Proporcionamos una consulta inicial gratuita para discutir tus necesidades y "
+"ofrecerte recomendaciones sobre el mejor enfoque para tu proyecto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:692
+msgid "Revisión de Traducción Gratuita"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:693
+msgid ""
+"Ofrecemos una revisión gratuita de la primera página de tu documento para "
+"demostrar la calidad de nuestro trabajo y asegurarnos de que cumplimos con "
+"tus expectativas."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:698
+msgid "Prueba de Interpretación Gratuita"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:699
+msgid ""
+"Proporcionamos una breve prueba de interpretación gratuita para eventos o "
+"reuniones, para que puedas experimentar la calidad de nuestro servicio antes "
+"de reservar una sesión completa."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:716
+msgid "Traduce tus Documentos con calida, rápido y barato"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:717
+msgid ""
+"En Bilingual Corporation, transformamos la complejidad del lenguaje en "
+"claridad. Ya sea para documentos legales, interpretaciones médicas o "
+"traducciones técnicas, nuestro equipo de expertos está listo para ayudarte a "
+"alcanzar tus objetivos. Porque cada palabra cuenta, cada detalle importa."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:720
+msgid "Traduce tus Documentos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:734
+msgid "PREGUNTAS FRECUENTES"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:735
+msgid ""
+"Resolvemos las dudas más comunes sobre nuestros servicios de traducción e "
+"interpretación. Si tienes alguna pregunta adicional, no dudes en "
+"contactarnos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:742
+msgid "¿Qué tipo de traducciones ofrecen?"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:745
+msgid ""
+"Ofrecemos traducciones certificadas, notarizadas, técnicas, comerciales y de "
+"documentos personales. También realizamos localización de sitios web y "
+"textos creativos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:752
+msgid "¿Cómo se garantiza la calidad de sus traducciones? "
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:755
+msgid ""
+"Estamos certificados bajo normas ISO 17100, ISO 9001 y ISO/IEC 27001. Esto "
+"asegura que nuestros traductores estén calificados y que se mantengan altos "
+"estándares de calidad y confidencialidad en cada proyecto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:762
+msgid "¿Ofrecen servicios de interpretación en eventos?"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:765
+msgid ""
+"Sí, ofrecemos interpretación en tiempo real para eventos en vivo, incluyendo "
+"conferencias y seminarios. Nuestros intérpretes se asegurarán de que todos "
+"los participantes comprendan el contenido sin barreras lingüísticas."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:772
+msgid "¿Cuál es el proceso para solicitar una traducción?"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:775
+msgid ""
+"Simplemente envía tus documentos a nuestro correo electrónico o por "
+"WhatsApp. Te proporcionaremos una cotización sin compromiso y, una vez que "
+"aceptes, comenzaremos a trabajar en tu proyecto."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:782
+msgid "¿Ofrecen descuentos por volumen?"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:785
+msgid ""
+"Sí, ofrecemos descuentos para grandes volúmenes de traducción e "
+"interpretación. Contáctanos para obtener una cotización personalizada."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:810
+msgid "1825 Ponce de León,"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:811
+msgid "Coral Gables, FL 33134,"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:813
+msgid "Teléfono:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:819
+msgid "Enlaces de Interés"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:824
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:8
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:15
+msgid "Términos de Servicio"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:825
+msgid "Políticas de Privacidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:830
+msgid "Nuestros Servicios"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:844
+msgid "Nuestras Redes Sociales"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\landingpage.html:845
+msgid ""
+"Puedes contactarno en nuestras redes sociales. Será un placer hablar contigo."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:9
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:14
+msgid "Política de Privacidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:15
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:16
+msgid "Última actualización: [Fecha]"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:17
+msgid "1. Información Recopilada"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:18
+msgid "Podemos recopilar la siguiente información:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:20
+msgid ""
+"Información personal: nombre, dirección de correo electrónico, número de "
+"teléfono, etc."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:21
+msgid ""
+"Información sobre los documentos que envías para traducción o interpretación."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:24
+msgid "2. Uso de la Información"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:25
+msgid "Utilizamos la información recopilada para:"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:27
+msgid "Proporcionar y mejorar nuestros servicios."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:28
+msgid "Comunicarnos contigo sobre tus solicitudes."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:29
+msgid "Enviar información relevante sobre nuestros servicios."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:32
+msgid "3. Compartición de Información"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:33
+msgid ""
+"No compartimos tu información personal con terceros sin tu consentimiento, "
+"excepto cuando sea necesario para cumplir con la ley o proteger nuestros "
+"derechos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:35
+msgid "4. Seguridad de la Información"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:36
+msgid ""
+"Implementamos medidas de seguridad para proteger tu información personal. "
+"Sin embargo, no podemos garantizar la seguridad absoluta de la información "
+"transmitida a través de Internet."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:38
+msgid "5. Derechos del Usuario"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:39
+msgid ""
+"Tienes derecho a acceder, corregir o eliminar la información personal que "
+"tenemos sobre ti. Si deseas ejercer estos derechos, contáctanos."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:41
+msgid "6. Modificaciones a la Política"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\politicadeprivacidad.html:42
+msgid "Nos reservamos el derecho de modificar esta Política de Privacidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:18
+msgid "1. Aceptación de los Términos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:19
+msgid ""
+"Al acceder y utilizar los servicios de Nickel Translations, aceptas estos "
+"Términos de Servicio en su totalidad. Si no estás de acuerdo, no debes "
+"utilizar nuestros servicios."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:21
+msgid "2. Servicios Ofrecidos"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:22
+msgid ""
+"Nickel Translations ofrece servicios de traducción e interpretación, "
+"incluyendo pero no limitándose a traducción certificada, interpretación "
+"USCIS, interpretación por teléfono y en persona, traducción de documentos "
+"técnicos y comerciales, entre otros. Los detalles de cada servicio están "
+"disponibles en nuestro sitio web."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:24
+msgid "3. Responsabilidades del Cliente"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:25
+msgid ""
+"El cliente se compromete a proporcionar información precisa y completa. "
+"Nickel Translations no será responsable de ningún retraso o error en la "
+"prestación de los servicios si estos se deben a información incorrecta o "
+"incompleta proporcionada por el cliente."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:27
+msgid "4. Propiedad Intelectual"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:28
+msgid ""
+"Todo el contenido y los materiales de Nickel Translations están protegidos "
+"por derechos de autor. No está permitido reproducir, distribuir o modificar "
+"el contenido sin autorización expresa."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:30
+msgid "5. Confidencialidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:31
+msgid ""
+"Nos comprometemos a proteger la privacidad de tu información. Para más "
+"detalles, consulta nuestra Política de Privacidad."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:33
+msgid "6. Limitación de Responsabilidad"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:34
+msgid ""
+"Nickel Translations no será responsable por daños directos, indirectos, "
+"incidentales o consecuentes que resulten del uso o la incapacidad para usar "
+"nuestros servicios."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:36
+msgid "7. Modificaciones"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:37
+msgid ""
+"Nos reservamos el derecho de modificar estos Términos de Servicio en "
+"cualquier momento. Las modificaciones serán efectivas una vez publicadas en "
+"nuestro sitio web."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:39
+msgid "8. Ley Aplicable"
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:40
+msgid "Estos Términos de Servicio se rigen por las leyes del [país o estado]."
+msgstr ""
+
+#: .\landingpage\templates\landingpage\terminosdeservicio.html:42
+msgid ""
+"Para cualquier pregunta sobre estos términos, contáctanos a través de [tu "
+"correo electrónico]."
+msgstr ""

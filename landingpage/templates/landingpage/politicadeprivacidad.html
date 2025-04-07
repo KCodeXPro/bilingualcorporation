@@ -1,0 +1,42 @@
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% blocktrans %}Política de Privacidad{% endblocktrans %}</title>
+    <link href="{% static 'landingpage/css/style.css' %}" rel="stylesheet">
+</head>
+<body>
+    <div class="politica">
+        <h1>{% blocktrans %}Política de Privacidad{% endblocktrans %}</h1>
+        <p>{% blocktrans %}Última actualización: [Fecha]{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}1. Información Recopilada{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Podemos recopilar la siguiente información:{% endblocktrans %}</p>
+        <ul>
+            <li>{% blocktrans %}Información personal: nombre, dirección de correo electrónico, número de teléfono, etc.{% endblocktrans %}</li>
+            <li>{% blocktrans %}Información sobre los documentos que envías para traducción o interpretación.{% endblocktrans %}</li>
+        </ul>
+
+        <h2>{% blocktrans %}2. Uso de la Información{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Utilizamos la información recopilada para:{% endblocktrans %}</p>
+        <ul>
+            <li>{% blocktrans %}Proporcionar y mejorar nuestros servicios.{% endblocktrans %}</li>
+            <li>{% blocktrans %}Comunicarnos contigo sobre tus solicitudes.{% endblocktrans %}</li>
+            <li>{% blocktrans %}Enviar información relevante sobre nuestros servicios.{% endblocktrans %}</li>
+        </ul>
+
+        <h2>{% blocktrans %}3. Compartición de Información{% endblocktrans %}</h2>
+        <p>{% blocktrans %}No compartimos tu información personal con terceros sin tu consentimiento, excepto cuando sea necesario para cumplir con la ley o proteger nuestros derechos.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}4. Seguridad de la Información{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Implementamos medidas de seguridad para proteger tu información personal. Sin embargo, no podemos garantizar la seguridad absoluta de la información transmitida a través de Internet.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}5. Derechos del Usuario{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Tienes derecho a acceder, corregir o eliminar la información personal que tenemos sobre ti. Si deseas ejercer estos derechos, contáctanos.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}6. Modificaciones a la Política{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Nos reservamos el derecho de modificar esta Política de Privacidad{% endblocktrans %}</p>

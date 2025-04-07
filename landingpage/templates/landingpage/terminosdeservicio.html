@@ -1,0 +1,46 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% blocktrans %}Términos de Servicio{% endblocktrans %}</title>
+    <link href="{% static 'landingpage/css/style.css' %}" rel="stylesheet">
+  
+</head>
+<body>
+    
+    <div class="terminos">
+        <h1>{% blocktrans %}Términos de Servicio{% endblocktrans %}</h1>
+        <p>{% blocktrans %}Última actualización: [Fecha]{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}1. Aceptación de los Términos{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Al acceder y utilizar los servicios de Bilingual Corporation, aceptas estos Términos de Servicio en su totalidad. Si no estás de acuerdo, no debes utilizar nuestros servicios.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}2. Servicios Ofrecidos{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Bilingual Corporation ofrece servicios de traducción e interpretación, incluyendo pero no limitándose a traducción certificada, interpretación USCIS, interpretación por teléfono y en persona, traducción de documentos técnicos y comerciales, entre otros. Los detalles de cada servicio están disponibles en nuestro sitio web.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}3. Responsabilidades del Cliente{% endblocktrans %}</h2>
+        <p>{% blocktrans %}El cliente se compromete a proporcionar información precisa y completa. Bilingual Corporation no será responsable de ningún retraso o error en la prestación de los servicios si estos se deben a información incorrecta o incompleta proporcionada por el cliente.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}4. Propiedad Intelectual{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Todo el contenido y los materiales de Bilingual Corporation están protegidos por derechos de autor. No está permitido reproducir, distribuir o modificar el contenido sin autorización expresa.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}5. Confidencialidad{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Nos comprometemos a proteger la privacidad de tu información. Para más detalles, consulta nuestra Política de Privacidad.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}6. Limitación de Responsabilidad{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Bilingual Corporation no será responsable por daños directos, indirectos, incidentales o consecuentes que resulten del uso o la incapacidad para usar nuestros servicios.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}7. Modificaciones{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Nos reservamos el derecho de modificar estos Términos de Servicio en cualquier momento. Las modificaciones serán efectivas una vez publicadas en nuestro sitio web.{% endblocktrans %}</p>
+
+        <h2>{% blocktrans %}8. Ley Aplicable{% endblocktrans %}</h2>
+        <p>{% blocktrans %}Estos Términos de Servicio se rigen por las leyes del [país o estado].{% endblocktrans %}</p>
+
+        <p>{% blocktrans %}Para cualquier pregunta sobre estos términos, contáctanos a través de [tu correo electrónico].{% endblocktrans %}</p>
+    </div>
+
+</body>
+</html>
